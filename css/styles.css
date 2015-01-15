@@ -7,6 +7,9 @@ height: 100%;
 background-color: #4D4DDB;
 
 }
+h1 {
+	font-size: 100px;
+}
 ul {
 	padding-left: 30px;
 }
@@ -16,14 +19,19 @@ ul {
 	margin-bottom: 20px;
 	text-align: center;
 	border-radius: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+	display: block;
 }
 
 .thing_one {
 	background-color: #F3EBFF;
 	color: #000066;
-	margin-bottom: 20px;
+	margin-left: 300px;
 	text-align: left;
-	border-radius: 50px;
+	border-radius: 25px;
+	float: left;
 }
 .thing_two {
 	background-color: #F3EBFF;
@@ -31,6 +39,7 @@ ul {
 	margin-bottom: 20px;
 	text-align: left;
 	border-radius: 50px;
+	margin-left: 700px;
 }
 
 .wrapper {
