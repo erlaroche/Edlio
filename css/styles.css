@@ -20,7 +20,7 @@ h3 {
 }
 h6 {
 	font-size: 15px;
-	text-shadow: 1px 1px 0 #FFFFFF, 1px 1px 0 #000000;
+	text-shadow: 1px 1px 0 #000066, 1px 1px 0 #000000;
 }
 p {
 	font-size: 30px;
@@ -45,7 +45,7 @@ ul {
 
 .thing_one {
 	background-color: #F3EBFF;
-	margin-left: 300px;
+	margin-left: 200px;
 	text-align: left;
 	border-radius: 25px;
 	border: 2px solid black;
@@ -54,11 +54,12 @@ ul {
 }
 .thing_two {
 	background-color: #F3EBFF;
-	margin-bottom: 20px;
 	text-align: left;
 	border-radius: 50px;
 	border: 2px solid black;
-	margin-left: 700px;
+	margin-left: 600px;
+	margin-right: 35px;
+	margin-bottom: 100px;
 	box-shadow: 10px 10px 5px #000066;
 }
 
