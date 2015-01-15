@@ -2,12 +2,14 @@
 	margin: 0;
 	padding: 5px;
 	color: black;
+
 }
 html, body {
 	height: 100%;
 	background-color: #4D4DDB;
 	letter-spacing: 1px;
-
+	/*background-image: url("http://associationmarketer.com/wp-content/uploads/2014/02/blue-abstract-background.jpg");*/
+	background-image: url("../images/background.jpg");
 }
 h1 {
 	font-size: 100px;
@@ -70,7 +72,7 @@ ul {
 	margin: 0 auto -4em;
 }
 .footer {
-	background-color: #6666E0;
+	background-color: #99D6FF;
 	border: 2px solid black;
 }
 .footer, .push {
