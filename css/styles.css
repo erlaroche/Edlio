@@ -6,9 +6,8 @@
 }
 html, body {
 	height: 100%;
-	background-color: #4D4DDB;
+	background-color: #3366FF;
 	letter-spacing: 1px;
-	/*background-image: url("http://associationmarketer.com/wp-content/uploads/2014/02/blue-abstract-background.jpg");*/
 	background-image: url("../images/background.jpg");
 }
 h1 {
